@@ -43,11 +43,11 @@
 > **Descrição:** Calcula a quantidade de leitos hospitalares disponíveis para cada mil habitantes.  
 
 > **Fórmula:**  
-
+$$
 \[
 \frac{\text{Nº total de leitos}}{\text{População total}} \times 1000
 \]
-
+$$
 > **Medidas:**  
 > - Nº total de leitos  
 > - População total  
