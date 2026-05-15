@@ -44,9 +44,9 @@
 
 > **Fórmula:**  
 
-\[
+$$
 \text{Contagem de CNES por município}
-\]
+$$
 
 > **Medidas:**  
 > - Código CNES  
@@ -66,9 +66,9 @@
 
 > **Fórmula:**  
 
-\[
+$$
 \frac{\text{Nº de unidades de saúde}}{\text{População do município}} \times 10000
-\]
+$$
 
 > **Medidas:**  
 > - Quantidade de unidades CNES  
@@ -89,9 +89,9 @@
 
 > **Fórmula:**  
 
-\[
+$$
 \text{Distância média entre unidades}
-\]
+$$
 
 > **Medidas:**  
 > - Latitude  
@@ -112,9 +112,9 @@
 
 > **Fórmula:**  
 
-\[
+$$
 \text{Contagem distinta de tipos de unidades}
-\]
+$$
 
 > **Exemplos:**  
 > - UBS  
@@ -137,9 +137,9 @@
 
 > **Fórmula:**  
 
-\[
+$$
 \frac{\text{UBS + ESF + Postos de Saúde}}{\text{Total de unidades}} \times 100
-\]
+$$
 
 > **Medidas:**  
 > - Quantidade de UBS  
